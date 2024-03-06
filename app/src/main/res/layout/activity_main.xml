@@ -14,7 +14,10 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="200sp"
         android:text="0"
-        android:textSize="80sp" />
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:textSize="80sp"
+        android:textDirection="rtl"
+        />
 
     <LinearLayout
         android:layout_width="match_parent"
